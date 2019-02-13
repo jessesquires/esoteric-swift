@@ -20,5 +20,5 @@ Pull requests welcome.
 
 1. Code must compile (lol duh)
 1. Include code as a Swift playground
-2. Link to original author / source /references in comments
+2. Link to original author / source / references in comments
 3. Update this README "Contents" section
