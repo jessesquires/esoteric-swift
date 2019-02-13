@@ -1,6 +1,7 @@
 //
 // Sources / References:
 //
+// Nate Cook
 // - https://twitter.com/nnnnnnnn/status/1093576188075958273
 // - https://gist.github.com/natecook1000/9ecc976aaac9a035bddf
 //
