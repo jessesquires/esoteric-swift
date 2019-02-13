@@ -1,6 +1,7 @@
 //
 // Sources / References:
 //
+// Joe Groff
 // - https://twitter.com/jckarter/status/1093180314526965760
 // - https://gist.github.com/jckarter/f56f6244aef46bfe25ccf34d2750412b#file-basic-swift-L15
 //
