@@ -15,6 +15,7 @@ The less comprehensible, the better — just like normal code.
 1. [Never Absurd](https://github.com/jessesquires/esoteric-swift/blob/master/source/never_absurd.playground/Contents.swift) — [Point-Free](https://twitter.com/pointfreeco)
 1. [Uncertainty](/source/uncertainty.playground/Contents.swift) — [Matteo Comisso](https://twitter.com/teomatteo89)
 1. [Never Exists](https://github.com/jessesquires/esoteric-swift/blob/master/source/never_exists.playground/Contents.swift) — [Tom Quist](https://twitter.com/tomqueue)
+1. [Bad Boolz](/source/bad_boolz.playground/Contents.swift) — [Ronald Martin](https://github.com/ronaldsmartin)
 
 ## Contributing
 
