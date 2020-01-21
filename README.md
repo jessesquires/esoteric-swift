@@ -25,3 +25,10 @@ Pull requests welcome.
 1. Include code as a Swift playground
 2. Link to original author / source / references in comments
 3. Update this README "Contents" section
+
+- [Contributing Guidelines](https://github.com/jessesquires/.github/blob/master/CONTRIBUTING.md)
+- [Code of Conduct](https://github.com/jessesquires/.github/blob/master/CODE_OF_CONDUCT.md)
+- [Support and Help](https://github.com/jessesquires/.github/blob/master/SUPPORT.md)
+- [Security Policy](https://github.com/jessesquires/.github/blob/master/SECURITY.md)
+
+Also, consider [sponsoring this project](https://www.jessesquires.com/sponsor/) or [buying my apps](https://www.hexedbits.com)! :v:
